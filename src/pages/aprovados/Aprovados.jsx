@@ -132,10 +132,10 @@ const Aprovados = () => {
                     Desaprovar
                   </button>
                   <button
-                    className="button button-excluir"
+                    className="button button-entrou"
                     onClick={() => handleExcluir(aprovado.id)}
                   >
-                    Excluir
+                    Entrou
                   </button>
                 </div>
               </td>
