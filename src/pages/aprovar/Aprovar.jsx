@@ -60,7 +60,7 @@ const Pagamentos = () => {
 
   return (
     <div className="table-container">
-      <h1>Pagamentos</h1>
+      <h1>Aprovar</h1>
       {/* Tabela para telas grandes */}
       <table className="table">
         <thead>
